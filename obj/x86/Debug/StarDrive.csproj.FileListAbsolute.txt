@@ -1,2 +1,7 @@
 C:\Program Files (x86)\Steam\SteamApps\common\StarDrive Redux\StarDrive.exe.config
 D:\Program Files (x86)\Steam\SteamApps\common\StarDrive Redux\StarDrive.exe.config
+C:\Users\keons_000\Program Files (x86)\Steam\SteamApps\common\StarDrive Redux\StarDrive.exe.config
+C:\Users\keons_000\Documents\Visual Studio 2015\Projects\StardriveBlackBox-verRadicalElements-\obj\x86\Debug\StarDrive.csprojResolveAssemblyReference.cache
+C:\Users\keons_000\Documents\Visual Studio 2015\Projects\StardriveBlackBox-verRadicalElements-\obj\x86\Debug\Ship_Game.ExceptionViewer.resources
+C:\Users\keons_000\Documents\Visual Studio 2015\Projects\StardriveBlackBox-verRadicalElements-\obj\x86\Debug\Properties.Resources.resources
+C:\Users\keons_000\Documents\Visual Studio 2015\Projects\StardriveBlackBox-verRadicalElements-\obj\x86\Debug\StarDrive.csproj.GenerateResource.Cache

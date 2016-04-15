@@ -256,13 +256,17 @@
     <CodeAnalysisRuleSet>BasicCorrectnessRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Fasterflect">
+    <Reference Include="Fasterflect, Version=2.1.3.0, Culture=neutral, PublicKeyToken=38d18473284c1ca7, processorArchitecture=MSIL">
       <HintPath>packages\fasterflect.2.1.3\lib\net40\Fasterflect.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.Xna.Framework, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=x86" />
     <Reference Include="Microsoft.Xna.Framework.Game, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=x86" />
+    <Reference Include="sgMotion">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\SteamApps\common\StarDrive\sgMotion.dll</HintPath>
+    </Reference>
     <Reference Include="SynapseGaming-SunBurn-Pro">
-      <HintPath>..\StarDrive\StarDriveReferences\SynapseGaming-SunBurn-Pro.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\SteamApps\common\StarDrive\SynapseGaming-SunBurn-Pro.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System.Data" />
@@ -271,15 +275,15 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="XNAnimation">
-      <HintPath>..\StarDrive\StarDriveReferences\XNAnimation.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\SteamApps\common\StarDrive\XNAnimation.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="ParticleSettings">
-      <HintPath>..\StarDrive\StarDriveReferences\ParticleSettings.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\SteamApps\common\StarDrive\ParticleSettings.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="NAudio">
-      <HintPath>..\StarDrive\StarDriveReferences\NAudio.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\SteamApps\common\StarDrive\NAudio.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System.Configuration" />
